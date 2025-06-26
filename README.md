@@ -155,3 +155,8 @@ Visualiza gráficos de barras, mapas 3D y descarga los resultados en varios form
 - Puedes ampliar la tabla de materiales (`CLASIFICACION_MATERIALES`) en el código para adaptarla a tus necesidades.
 
 - Adapta los umbrales de similitud y las palabras clave según los materiales de tus proyectos.
+
+
+## ▶️ Demo funcional
+
+https://analyce-ifc.streamlit.app/
