@@ -1,5 +1,5 @@
 streamlit
-ifcopenshell
+ifcopenshell --only-binary :all:
 pandas
 rapidfuzz
 matplotlib
